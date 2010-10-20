@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nofl-cert version="1">
+  <attribute name="blah" value="ble"/>
+  <signature>
+    blaaaaaaaaaaaaaaaaaaaa!!!
+  </signature>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+<SignedInfo>
+<CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/>
+<SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<Reference>
+<Transforms>
+<Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</Transforms>
+<DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<DigestValue>vt2UHX32CU4CURb9UF74QkjeqKE=</DigestValue>
+</Reference>
+</SignedInfo>
+<SignatureValue>EDm9jy0K/zsxdMIniIuNMnoocEc90++S+PxEnVn03Ujgc3/AykJd5HDW+fLonQy5
+GAfz2ki9snQ0cmgx6i5t6Q==</SignatureValue>
+<KeyInfo>
+<KeyName>/home/cleber/src/nofl/data/rsakey</KeyName>
+</KeyInfo>
+</Signature></nofl-cert>

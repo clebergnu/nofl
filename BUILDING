@@ -1,0 +1,19 @@
+This is a sample guideline on how NOFL should be built.
+
+There are many main products that can be built out of NOFL:
+
+   1) Management tools (nofl-manager)
+   2) Management Library (libnoflmanager)
+   3) Certificate Validation Library (linoflvalidation)
+   4) Python Certificatie Validation module (noflvalidationmodule.so)
+   5) PHP Certificatie Validation module (noflvalidationmodule.c)
+   
+
+TODO:
+=====
+   Implement in autotools the options:
+    * --with[out]-management-tools 
+    * --with[out]-management-lib
+    * --with[out]-validation-lib
+    * --with[out]-python
+    * --with[out]-php

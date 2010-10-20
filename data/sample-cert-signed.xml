@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nofl-cert version="1">
+  <attribute name="bleh" value="ble"/>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+<SignedInfo>
+<CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/>
+<SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#dsa-sha1"/>
+<Reference>
+<Transforms>
+<Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</Transforms>
+<DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<DigestValue>TI4oF7nVzHjK5XeihVq9NXDdh78=</DigestValue>
+</Reference>
+</SignedInfo>
+<SignatureValue>rwyCNSXW1bGaaunPM0tj7ZGj1BkAOR8MqPUeMM4msSK2gidNATzoag==</SignatureValue>
+<KeyInfo/>
+</Signature></nofl-cert>

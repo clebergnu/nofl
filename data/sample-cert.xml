@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nofl-cert version="1.0">
+  <customer name="Foo" identification="01010101"/>
+  <expires date="01/01/20010" grace="10 days"/>
+</nofl-cert>
